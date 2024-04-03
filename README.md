@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Violeta Francescangeli</h1>
 <h3 align="center">Data Science Student</h3>
 
-- 📫 How to reach me **www.linkedin.com/in/violeta-francescangeli-2254ba281**
+- 🌱 I’m currently learning **PostgreSQL and Node.js**
+
+- 📫 Reach me at [LinkedIn](www.linkedin.com/in/violeta-francescangeli-2254ba281)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
